@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/youtube-react-netflix-ui/static/js/main.d2d63056.js",
-    "index.html": "/youtube-react-netflix-ui/index.html",
-    "main.d2d63056.js.map": "/youtube-react-netflix-ui/static/js/main.d2d63056.js.map"
+    "main.js": "/Youtube/static/js/main.1f91b2d4.js",
+    "index.html": "/Youtube/index.html",
+    "main.1f91b2d4.js.map": "/Youtube/static/js/main.1f91b2d4.js.map"
   },
   "entrypoints": [
-    "static/js/main.d2d63056.js"
+    "static/js/main.1f91b2d4.js"
   ]
 }
